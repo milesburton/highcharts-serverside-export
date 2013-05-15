@@ -31,6 +31,7 @@
                     <artifactId>batik-js</artifactId>
                 </exclusion>
             </exclusions>
+            <scope>provided</scope>
         </dependency>
         <dependency>
             <groupId>org.apache.xmlgraphics</groupId>
@@ -58,6 +59,7 @@
                     <artifactId>batik-js</artifactId>
                 </exclusion>
             </exclusions>
+            <scope>provided</scope>
         </dependency>
         <dependency>
             <groupId>org.apache.xmlgraphics</groupId>
@@ -81,6 +83,7 @@
                     <artifactId>batik-js</artifactId>
                 </exclusion>
             </exclusions>
+            <scope>provided</scope>
         </dependency>
         <dependency>
             <groupId>org.apache.xmlgraphics</groupId>
@@ -104,6 +107,7 @@
                     <artifactId>batik-js</artifactId>
                 </exclusion>
             </exclusions>
+            <scope>provided</scope>
         </dependency>
         <dependency>
             <groupId>org.apache.xmlgraphics</groupId>
@@ -127,6 +131,7 @@
                     <artifactId>batik-js</artifactId>
                 </exclusion>
             </exclusions>
+            <scope>provided</scope>
         </dependency>
         <dependency>
             <groupId>org.apache.xmlgraphics</groupId>
@@ -150,6 +155,7 @@
                     <artifactId>batik-js</artifactId>
                 </exclusion>
             </exclusions>
+            <scope>provided</scope>
         </dependency>
         <dependency>
             <groupId>org.apache.xmlgraphics</groupId>
@@ -173,6 +179,7 @@
                     <artifactId>batik-js</artifactId>
                 </exclusion>
             </exclusions>
+            <scope>provided</scope>
         </dependency>
         <dependency>
             <groupId>org.apache.xmlgraphics</groupId>
@@ -196,6 +203,7 @@
                     <artifactId>batik-js</artifactId>
                 </exclusion>
             </exclusions>
+            <scope>provided</scope>
         </dependency>
         <dependency>
             <groupId>org.apache.xmlgraphics</groupId>
@@ -223,6 +231,7 @@
                     <artifactId>batik-js</artifactId>
                 </exclusion>
             </exclusions>
+            <scope>provided</scope>
         </dependency>
         <dependency>
             <groupId>org.apache.xmlgraphics</groupId>
@@ -246,6 +255,7 @@
                     <artifactId>batik-js</artifactId>
                 </exclusion>
             </exclusions>
+            <scope>provided</scope>
         </dependency>
         <dependency>
             <groupId>org.apache.xmlgraphics</groupId>
@@ -273,6 +283,7 @@
                     <artifactId>batik-js</artifactId>
                 </exclusion>
             </exclusions>
+            <scope>provided</scope>
         </dependency>
         <dependency>
             <groupId>org.apache.xmlgraphics</groupId>
@@ -300,6 +311,7 @@
                     <artifactId>batik-js</artifactId>
                 </exclusion>
             </exclusions>
+            <scope>provided</scope>
         </dependency>
         <dependency>
             <groupId>org.apache.xmlgraphics</groupId>
@@ -323,6 +335,7 @@
                     <artifactId>batik-js</artifactId>
                 </exclusion>
             </exclusions>
+            <scope>provided</scope>
         </dependency>
         <dependency>
             <groupId>org.apache.xmlgraphics</groupId>
@@ -346,6 +359,7 @@
                     <artifactId>batik-js</artifactId>
                 </exclusion>
             </exclusions>
+            <scope>provided</scope>
         </dependency>
         <dependency>
             <groupId>org.apache.xmlgraphics</groupId>
@@ -369,6 +383,7 @@
                     <artifactId>batik-js</artifactId>
                 </exclusion>
             </exclusions>
+            <scope>provided</scope>
         </dependency>
         <dependency>
             <groupId>org.apache.xmlgraphics</groupId>
@@ -392,6 +407,7 @@
                     <artifactId>batik-js</artifactId>
                 </exclusion>
             </exclusions>
+            <scope>provided</scope>
         </dependency>
         <dependency>
             <groupId>org.apache.xmlgraphics</groupId>
@@ -419,6 +435,7 @@
                     <artifactId>batik-js</artifactId>
                 </exclusion>
             </exclusions>
+            <scope>provided</scope>
         </dependency>
         <dependency>
             <groupId>org.apache.xmlgraphics</groupId>
@@ -446,6 +463,7 @@
                     <artifactId>batik-js</artifactId>
                 </exclusion>
             </exclusions>
+            <scope>provided</scope>
         </dependency>
         <dependency>
             <groupId>org.apache.xmlgraphics</groupId>
@@ -473,6 +491,7 @@
                     <artifactId>batik-js</artifactId>
                 </exclusion>
             </exclusions>
+            <scope>provided</scope>
         </dependency>
         <dependency>
             <groupId>org.apache.xmlgraphics</groupId>
@@ -500,6 +519,7 @@
                     <artifactId>batik-js</artifactId>
                 </exclusion>
             </exclusions>
+            <scope>provided</scope>
         </dependency>
         <dependency>
             <groupId>com.google.code.gson</groupId>
@@ -523,6 +543,7 @@
                     <artifactId>commons-logging</artifactId>
                 </exclusion>
             </exclusions>
+            <scope>provided</scope>
         </dependency>
         <dependency>
             <groupId>org.slf4j</groupId>
