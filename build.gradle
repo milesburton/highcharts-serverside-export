@@ -4,7 +4,7 @@ apply plugin: 'groovy'
 apply plugin: 'java'
 
 group = 'com.liftyourgame'
-artifactId = 'com.liftyourgame'
+artifactId = 'highcharts-grails-export'
 version = '1.0.4'
 
 def batikVersion = '1.7'
