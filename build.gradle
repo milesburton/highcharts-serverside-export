@@ -2,6 +2,7 @@ apply plugin: 'idea'
 apply plugin: 'maven'
 apply plugin: 'groovy'
 apply plugin: 'java'
+apply plugin: 'package'
 
 group = 'com.liftyourgame'
 artifactId = 'highcharts-grails-export'
@@ -35,5 +36,5 @@ dependencies {
 }
 
 configurations {
-    all*.exclude name: 'xml-apis'
+   // all*.exclude name: 'xml-apis'
 }
