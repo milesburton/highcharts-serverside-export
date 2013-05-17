@@ -20,7 +20,7 @@ dependencies {
 
     compile "xml-apis:xml-apis-ext:1.3.04",
             "org.apache.xmlgraphics:fop:0.94",
-            "xml-apis:xml-apis1.3.04",
+            "xml-apis:xml-apis:1.3.04"        
 
     compile batikDependencies
 
