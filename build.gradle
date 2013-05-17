@@ -35,5 +35,5 @@ dependencies {
 }
 
 configurations {
-   // all*.exclude name: 'xml-apis'
+   all*.exclude group:'org.apache.xmlgraphics', name:'batik-extensions', version:'1.7'
 }
